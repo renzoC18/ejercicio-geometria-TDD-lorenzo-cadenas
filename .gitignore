@@ -1,0 +1,11 @@
+/__pycache__/
+/.pytest_cache/
+/env/
+/src/__pycache__/
+/src/circulo/__pycache__/
+/src/rectangulo/__pycache__/
+/src/triangulo/__pycache__/
+/tests/__pycache__/
+/tests/test_circulo/__pycache__/
+/tests/test_rectangulo/__pycache__/
+/tests/test_triangulo/__pycache__/
